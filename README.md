@@ -1,1 +1,4 @@
 # tamagochibot
+
+test stroka
+dsjkfnksdjnf
