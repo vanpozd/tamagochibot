@@ -1,1 +1,3 @@
 # tamagochibot
+
+print("hello world")
