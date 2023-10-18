@@ -1,6 +1,3 @@
 # tamagochibot
 
-test stroka
-dsjkfnksdjnf
-sjdnsdj
-danfaksn 
+tamagochi.py -- main logic func
